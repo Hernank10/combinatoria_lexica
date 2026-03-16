@@ -24,7 +24,7 @@ Aplicación web educativa para aprender y practicar la combinatoria léxica en e
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/Hernank10/combinatoria-lexica.git
+git clone https://github.com/Hernank10/combinatoria_lexica.git
 cd combinatoria-lexica
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
